@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SannikBej.
-- 👀 I’m interested in Coding, actually for making games and Web Dev purposes.
+- 👋 Hi, I’m Sannik.
+- 👀 I’m interested in Coding for making websites and video games.
 - 🌱 I’m currently learning Unity and a few Web Frameworks.
-- 💞️ I’m looking to collaborate on some point in near future.
+- 💞️ I’m looking to collaborate at some point soon.
 - 📫 How to reach me ? ... Through twitter DM.
 
 <!---
